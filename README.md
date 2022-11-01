@@ -1,5 +1,4 @@
-# hh_test_task_2
-HeadHunter programming school test task  
+# hh_test_task_2 
 Задача 2. Финансовая фантазия фанатичного фермера  
 Ограничение времени, с	1  
 Ограничение памяти, МБ	64  
